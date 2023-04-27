@@ -1,1 +1,1 @@
-# spa-universe
+# github-favorite
